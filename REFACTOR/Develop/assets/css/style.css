@@ -74,6 +74,16 @@ figure img {
     margin-left: 25px;
 }
 
+aside {
+    margin-right: 20px;
+    padding: 15px;
+    clear: both;
+    float: right;
+    width: 20%;
+    height: 100%;
+    background-color: #2589bd;
+}
+
 .content {
     width: 75%;
     display: inline-block;
@@ -89,15 +99,7 @@ figure img {
     max-height: 200px;
 }
 
-aside {
-    margin-right: 20px;
-    padding: 15px;
-    clear: both;
-    float: right;
-    width: 20%;
-    height: 100%;
-    background-color: #2589bd;
-}
+
 .benefits-text {
     margin-bottom: 20px;
     color: #ffffff;
@@ -115,4 +117,3 @@ footer {
     padding: 30px;
     text-align: center;
 }
-
